@@ -69,7 +69,7 @@
     <div id="conteneur">
         <div class=column_A>
             <div class=zoom>
-                <div class="col-lg-1 padbot30 gallery_img lorem" id="grandephoto2"><a href="View/img/entraide.png" data-gal="prettyPhoto[gal]"><i></i><img src="View/img/entraide.png" alt="" style="width: 100%;" /></a></div>
+                <div class="col-lg-1 padbot30 gallery_img lorem" id="grandephoto2"><a href="View/img/entraide.png" data-gal="prettyPhoto[gal]"><i></i><img src="View/img/entraide.png" alt="" style="width: 100%; height: 100%;" /></a></div>
             </div>
             <div class="entraide1">
             <script type="text/javascript">

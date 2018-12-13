@@ -70,7 +70,7 @@
         <div class=column_A>
             <div class=zoom>
                 <div class="col-lg-1 padbot30 gallery_img lorem" id="grandephoto3">
-                    <a href="View/img/culture.png" data-gal="prettyPhoto[gal]"><i></i><img src="View/img/culture.png" alt="" style="width: 100%; height: 100%;" /></a>
+                    <a href="View/img/culture.png" data-gal="prettyPhoto[gal]" ><i></i><img src="View/img/culture.png" alt="" style="width: 100%; height: 100%;" /></a>
                 </div>
             </div>
             <script type="text/javascript">
